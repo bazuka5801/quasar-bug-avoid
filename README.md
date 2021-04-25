@@ -1,5 +1,7 @@
 # Quasar App (quasar-bug-avoid)
 
+https://github.com/quasarframework/quasar/issues/9029
+
 ### BUG REPRODUCTION
 Capacitor:
 ```bash
